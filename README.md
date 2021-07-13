@@ -1,6 +1,6 @@
 # Bernard Rodrigues
 
-#### 💻  Computational Engineer by Universidade Federal de Juiz de Fora
+#### 💻  Computational Engineer by Federal University of Juiz de Fora
 
 👋 Hi! I'm @bernard-rodrigues! Welcome to my GitHub!
 
