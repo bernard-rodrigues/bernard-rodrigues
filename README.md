@@ -6,6 +6,8 @@
 
 👀 I'm interested in **Front-End Development**
 
+🏢 I'm currently working at **Universidade Federal de Juiz de Fora** as **Django Full Stack Developer**
+
 🌱 I'm currently learning **ReactJS** and **Next**
 
 📫 You can reach me at:
