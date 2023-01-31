@@ -8,7 +8,7 @@
 
 🏢 I'm currently working at **Universidade Federal de Juiz de Fora** as **Django Full Stack Developer**
 
-🌱 I'm currently learning **ReactJS** and **Next**
+🌱 I'm currently learning **ReactJS** and **NextJS**
 
 📫 You can reach me at:
 [![Twitter Badge](https://img.shields.io/badge/-@bernard_clint-003737?style=flat-square&labelColor=003737&logo=twitter&logoColor=white&link=https://twitter.com/bernard_clint)](https://twitter.com/bernard_clint) 
