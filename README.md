@@ -1,10 +1,8 @@
 <div style="display:flex;align-items:center;justify-content:center">
     <img src="./assets/my-octocat.png" width="300">
-    <div>
         <h1>Bernard Rodrigues</h1>
         <h3>Moodle Administrator at <a href="https://institucional.caeddigital.net/" target="_blank">CAEd | UFJF</a></h3>
         <h3>Gamer at Twitch as <a href="https://twitch.tv/bernardin_gameplay/" target="_blank">@bernardin_gameplay</a></h3>
-    </div>
 </div>
 
 ## Profile in English
