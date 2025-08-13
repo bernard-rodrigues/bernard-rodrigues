@@ -29,12 +29,6 @@
 
 📃 Aqui está meu portifólio: https://bernard-rodrigues.github.io/portifolio
 
-### GitHub Stats (Estatísticas do GitHub)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernard-rodrigues&theme=transparent&bg_color=945ee4&border_color=772CE8&show_icons=true&icon_color=9ef0ea&title_color=FFF&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bernard-rodrigues&layout=compact&bg_color=945ee4&border_color=772CE8&title_color=FFF&text_color=FFF)
-
 ### Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-rodrigues/)
