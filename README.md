@@ -15,7 +15,7 @@
 
 🏢 I'm currently working at **Centro de Políticas Públicas e Avaliação da Educação da Universidade Federal de Juiz de Fora (CAEd/UFJF)** as **Moodle Administrator**
 
-📃 Here's my portifolio: https://bernard-rodrigues.github.io/portifolio
+📃 Here's my portifolio: https://bernard-rodrigues.github.io/portfolio
 
 ## Perfil em português
 
@@ -27,7 +27,7 @@
 
 🏢 Atualmente estou trabalhando no **Centro de Políticas Públicas e Avaliação da Educação da Universidade Federal de Juiz de Fora (CAEd/UFJF)** como **Administrador Moodle**
 
-📃 Aqui está meu portifólio: https://bernard-rodrigues.github.io/portifolio
+📃 Aqui está meu portifólio: https://bernard-rodrigues.github.io/portfolio
 
 ### Social
 
